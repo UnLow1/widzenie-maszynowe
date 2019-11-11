@@ -1,0 +1,6 @@
+Mean IoU:0.9545 Mean Dice:0.9767
+Mean IoU:0.9545 Mean Dice:0.9767
+Mean IoU:0.9545 Mean Dice:0.9767
+Mean IoU:0.9545 Mean Dice:0.9767
+Mean IoU:0.9545 Mean Dice:0.9767
+Mean IoU:0.9389 Mean Dice:0.9685
